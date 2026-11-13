@@ -1,0 +1,6 @@
+{
+  "name": "甜心鐘樓疊疊樂",
+  "description": "一款 2D 法式甜點擺鐘蛋糕疊疊樂手機遊戲，掌握擺鐘節奏點擊落下一層層美味蛋糕，精準對齊疊出最高甜點塔。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
